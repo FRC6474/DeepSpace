@@ -52,6 +52,8 @@ constexpr int kFrontLiftReverse = 3; //CHANGE ON DAVIS BOT
 constexpr int kRearLiftForward = 0; //CHANGE ON DAVIS BOT
 constexpr int kRearLiftReverse = 1; //CHANGE ON DAVIS BOT
 
+constexpr double whyAmIstilHere = 69;
+
 // If you are using multiple modules, make sure to define both the port
 // number and the module. For example you with a rangefinder:
 // constexpr int kRangeFinderPort = 1;
