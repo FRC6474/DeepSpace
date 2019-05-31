@@ -64,5 +64,6 @@ class Robot : public frc::TimedRobot {
   frc::Command* m_autonomousCommand = nullptr;
   // ExampleCommand m_defaultAuto;
   // MyAutoCommand m_myAto;
+  // Wow this looks like some nerd stuff
   frc::SendableChooser<frc::Command*> m_chooser;
 };
